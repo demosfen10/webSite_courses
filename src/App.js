@@ -15,21 +15,20 @@ Link
 import Home from './Components/Home';
 import {Users} from './Components/Users';
 import {About} from './Components/About';
+import TableAddRemove from './Components/TableAddRemove';
 
 
 
 function App() {
   return (
     <>
-      {/* <Helmet>
-        <title>{ TITLE }</title>
-      </Helmet> */}
     <Router>
     <Navibar/>
     <Switch>
       <Route exact path="/" component={Home}/>
       <Route path="/users" component={Users}/>
       <Route path="/about" component={About}/>
+      <Route path="/table" component={TableAddRemove}/>
       {/* <Route path="/register" component={Auth_register}/> */}
     </Switch>
     </Router>

@@ -34,6 +34,7 @@ function Navibar() {
                             <Nav className="mr-auto ml-3">
                                 <Nav.Link>  <Link to="/" className="mr-2 mt-2">Home</Link> </Nav.Link>
                                 <Nav.Link>  <Link to="/users">Users</Link></Nav.Link>
+                                <Nav.Link>  <Link to="/table">TableAddRemove</Link></Nav.Link>
                                 <Nav.Link>  <Link to="/about">About</Link></Nav.Link>
                                 <Nav.Link>  <Link to="/contacts">Contacts</Link></Nav.Link>
                                 <li class="nav-item dropdown">

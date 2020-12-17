@@ -17,7 +17,7 @@ export const Users =()=>(
             <td>1</td>
             <td>Ilya</td>
             <td>Eliseev</td>
-            <td>@demosfen</td>
+            <td><a href="http://vk.com/demosfen10">@demosfen10</a></td>
             </tr>
             <tr>
             <td>2</td>
@@ -27,42 +27,44 @@ export const Users =()=>(
             </tr>
             <tr>
             <td>3</td>
-            <td colSpan="2">Larry the bird</td>
-            <td>@twitter</td>
+            <td>Kirill</td>
+            <td>Golovin</td>
+            <td>@krinch</td>
             </tr>
             <tr>
-            <td>1</td>
+            <td>4</td>
+            <td>Pavel</td>
+            <td>Podolniy</td>
+            <td>@podolniy</td>
+            </tr>
+            <tr>
+            <td>5</td>
+            <td>Dasha</td>
+            <td>Krasnouvskaya</td>
+            <td>@apathy</td>
+            </tr>
+            <tr>
+            <td>6</td>
+            <td colSpan="2">Larry the bird</td>
+            <td>@twitTer</td>
+            </tr>
+            <tr>
+            <td>7</td>
             <td>Ilya</td>
             <td>Eliseev</td>
             <td>@demosfen</td>
             </tr>
             <tr>
-            <td>2</td>
+            <td>8</td>
             <td>Dasha</td>
             <td>Krasnouvskaya</td>
             <td>@apathy</td>
             </tr>
             <tr>
-            <td>3</td>
-            <td colSpan="2">Larry the bird</td>
-            <td>@twitter</td>
-            </tr>
-            <tr>
-            <td>1</td>
-            <td>Ilya</td>
-            <td>Eliseev</td>
-            <td>@demosfen</td>
-            </tr>
-            <tr>
-            <td>2</td>
-            <td>Dasha</td>
-            <td>Krasnouvskaya</td>
-            <td>@apathy</td>
-            </tr>
-            <tr>
-            <td>3</td>
-            <td colSpan="2">Larry the bird</td>
-            <td>@twitter</td>
+            <td>9</td>
+            <td>Pavel</td>
+            <td>Podolniy</td>
+            <td>@podolniy</td>
             </tr>
         </tbody>
     </Table>
